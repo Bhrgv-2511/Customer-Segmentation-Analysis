@@ -1,0 +1,2 @@
+# Customer-Segmentation-Analysis
+Developed an analysis model using a class of machine learning known as unsupervised learning. made use of a clustering algorithm called K-means clustering.  Analyzed and visualized the data and then proceeded to implement our algorithm. Identification of customers can assist companies in releasing products and services that target customers based on several parameters like income, age, spending patterns, etc. Furthermore, more complex patterns like product reviews are taken into consideration for better segmentation. 
